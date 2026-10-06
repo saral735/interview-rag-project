@@ -8,3 +8,4 @@ requests
 qdrant-client
 fastembed
 groq
+python-dotenv
